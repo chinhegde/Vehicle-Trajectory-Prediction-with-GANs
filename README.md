@@ -5,10 +5,10 @@ This project proposes a novel approach to vehicle trajectory prediction using Ge
 ## Key Features
 * The project uses Generative Adversarial Networks to capture and replicate the complex behaviors of vehicles in traffic scenes.
 * Partial History Utilization is used to enhance the model's ability to predict trajectories, considering factors such as:
-- Vehicle size
-- Driver behavior
-- Obstacle avoidance
-- Inter-vehicle distance.
+  - Vehicle size
+  - Driver behavior
+  - Obstacle avoidance
+  - Inter-vehicle distance.
 * The model provides probabilistic predictions for future vehicle positions, offering a nuanced understanding of potential scenarios in traffic.
 * The model is designed to learn various vehicle behaviors, such as overcoming obstacles, merging, etc., making it adaptable to diverse traffic scenarios.
 
